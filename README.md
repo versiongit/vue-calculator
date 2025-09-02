@@ -18,7 +18,7 @@ A simple calculator built with Vue.js and Vite with router4.
     If you don't have the project locally yet, clone it from Git:
     ```bash
     git clone https://github.com/versiongit/vue-calculator.git
-    cd my-vue-calculator
+    cd vue-calculator
     ```
 
 2.  **Install Dependencies:**
